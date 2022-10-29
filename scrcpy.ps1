@@ -3,5 +3,4 @@ $num = 30000..49999
 $port = $nmap.Split("{/}") | Select-String $num
 adb connect 192.168.1.10:$port
 & 'C:\Program Files\scrcpy\scrcpy' --max-size 768
-# <alt> + <r> to rotate
 adb kill-server
