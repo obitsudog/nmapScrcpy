@@ -1,2 +1,2 @@
 # nmapScrcpy
-Automatically Mirror an Android Device's Screen With Powershell, Nmap &amp; scrcpy
+Automatically Mirror an Android Device's Screen With Nmap &amp; scrcpy
